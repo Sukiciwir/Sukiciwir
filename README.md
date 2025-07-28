@@ -1,3 +1,18 @@
+## 👋 Hi! I'm Rizqi Ramadhan — but everyone calls me **Suki**!
+
+🎓 I'm a student at **SMK Telkom Malang** who's passionate about **Cybersecurity**, **Video Editing**, and a bit of everything tech-related.  
+💡 I love building and breaking things — from pentest tools, Discord bots, to Minecraft server plugins.  
+🎬 On the creative side, I tell stories through visuals using **DaVinci Resolve** and sometimes mix that with a bit of cinematic hacking vibes.
+
+🌱 Currently diving deep into:
+- 🔐 **Cybersecurity & Ethical Hacking** (CTFs, scripting tools, and bypass experiments)
+- 🧠 **Reverse Engineering** & basic Malware Analysis
+- 💬 **Automation** using Python & JavaScript (for bots, automation, or just fun scripts)
+- 🎞️ **Storytelling & Cinematic Editing** using DaVinci Resolve
+
+🚀 Also exploring:
+- 🛡️ Red Team vs Blue Team strategy basics
+- 🕹️ Game design ideas, especially text-based RPGs & Minecraft modding
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/C7FrzEE6gJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ewrzqi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rizqi-ramadhan-849059343) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sukiciwir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizqi9lagiskolah@gmail.com) 
